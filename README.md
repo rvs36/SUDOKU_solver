@@ -2,7 +2,7 @@
 
 ## The objective is to solve the puzzle Sudoku for any size(order), using integer programming.
 
-I have used Python (cvxoptfor) integer programming. This solution was created as a part of assignment in the optimization class
+I have used Python (cvxoptfor) integer programming. This solution was created as a part of assignment in the optimization class.
 Read more [Sudoku](https://en.wikipedia.org/wiki/Sudoku)  
 
 ## Taget Sudoko to be solved
