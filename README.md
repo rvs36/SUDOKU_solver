@@ -7,3 +7,5 @@
 import numpy as np
 import cvxopt
 import cvxopt.glpk
+
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
