@@ -7,12 +7,12 @@ Read more [Sudoku](https://en.wikipedia.org/wiki/Sudoku)
 
 ## Taget Sudoko to be solved
 ### 1. Numeric Sudoku (9x9)
-![alt text](https://github.com/rvs36/SUDOKU_solver/blob/master/Targeteasy.JPG)
+![alt text](https://github.com/rvs36/SUDOKU_solver/blob/master/images/Targeteasy.JPG)
 ### 2. Alpha numeric Sudoku (16x16)
-![alt text](https://github.com/rvs36/SUDOKU_solver/blob/master/Targethard.JPG)
+![alt text](https://github.com/rvs36/SUDOKU_solver/blob/master/images/Targethard.JPG)
 
 ## Solutions of the Sudoku problems:
 ### 1. Numeric Sudoku (9x9)
-![alt text](https://github.com/rvs36/SUDOKU_solver/blob/master/Basic%20Solution.JPG)
+![alt text](https://github.com/rvs36/SUDOKU_solver/blob/master/images/Basic%20Solution.JPG)
 ### 2. Alpha numeric Sudoku (16x16)
-![alt text](https://github.com/rvs36/SUDOKU_solver/blob/master/Alpha%20numeric%20solution.JPG)
+![alt text](https://github.com/rvs36/SUDOKU_solver/blob/master/images/Alpha%20numeric%20solution.JPG)
