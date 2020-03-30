@@ -10,4 +10,4 @@ import cvxopt.glpk
 
 ![alt text](https://github.com/rvs36/SUDOKU_solver/blob/master/Basic%20Solution.JPG)
 
-![alt text](https://github.com/rvs36/SUDOKU_solver/blob/master/Alpha%numeric%solution.JPG)
+![alt text](https://github.com/rvs36/SUDOKU_solver/blob/master/Alpha%20numeric%20solution.JPG)
