@@ -2,11 +2,8 @@
 
 ## The objective is to solve the puzzle Sudoku for any size(order), using integer programming.
 
-— One of the best toolbox for optimisation in Python is cvxopt
-— In particular, cvxopt.glpk has an integer programming solver :
-import numpy as np  
-import cvxopt  
-import cvxopt.glpk  
+I have used Python (cvxoptfor) integer programming. This solution was created as a part of assignment in the optimization class
+Read more [Sudoku](https://en.wikipedia.org/wiki/Sudoku)  
 
 ## Taget Sudoko to be solved
 ### 1. Numeric Sudoku (9x9)
