@@ -8,6 +8,8 @@ import numpy as np
 import cvxopt
 import cvxopt.glpk
 
+## Solutions of the Sudoku problems:
+### 1. Numeric Sudoku (9x9)
 ![alt text](https://github.com/rvs36/SUDOKU_solver/blob/master/Basic%20Solution.JPG)
-
+### 2. Alpha numeric Sudoku (16x16)
 ![alt text](https://github.com/rvs36/SUDOKU_solver/blob/master/Alpha%20numeric%20solution.JPG)
