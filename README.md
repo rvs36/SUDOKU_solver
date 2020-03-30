@@ -8,4 +8,6 @@ import numpy as np
 import cvxopt
 import cvxopt.glpk
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/rvs36/SUDOKU_solver/blob/master/Basic%20Solution.JPG)
+
+![alt text](https://github.com/rvs36/SUDOKU_solver/blob/master/Alpha%numeric%solution.JPG)
